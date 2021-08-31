@@ -20,9 +20,9 @@ enable_smart_app_banner                   : true                                
 
 
 # Information About Yourself
-your_name                                 :                                  
+your_name                                 : Ryan                                
 your_link                                 :                        
-your_city                                 :                                  
+your_city                                 : USA                                 
 email_address                             :  
 facebook_username                         :                                            
 instagram_username                        :  
@@ -85,7 +85,7 @@ app_price_color                           : "#ffffff"
 app_description_color                     : "#ffffff"
 
 feature_title_color                       : "#E07AA2"
-feature_text_color                        : "#666666"
+feature_text_color                        : "#ffffff"
 
 feature_icons_foreground_color            : "#0DF1E8"
 feature_icons_background_color            : "#1C1C1E"
