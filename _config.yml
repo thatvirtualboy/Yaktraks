@@ -20,12 +20,12 @@ enable_smart_app_banner                   : true                                
 
 
 # Information About Yourself
-your_name                                 :                               
-your_link                                 :                      
-your_city                                 :                                 
-email_address                             : 
-facebook_username                         :                                           
-instagram_username                        : 
+your_name                                 :                                  
+your_link                                 :                        
+your_city                                 :                                  
+email_address                             :  
+facebook_username                         :                                            
+instagram_username                        :  
 twitter_username                          : thatvirtualboy
 github_username                           : 
 youtube_username                          :
@@ -35,41 +35,29 @@ youtube_username                          :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : GitHub Pages Jekyll Theme
-    description                           : Designed for GitHub Pages. Fork. Edit _config.yml. Upload screenshot/video. Push to gh-pages branch. Voilá!
-    fontawesome_icon_name                 : magic
+  - title                                 : Family-friendly
+    description                           : Designed with kids in mind.
+    fontawesome_icon_name                 : child
     
-  - title                                 : iPhone Device Preview
-    description                           : Preview your app in the context of an iPhone device. Five different device colors included.
+  - title                                 : Apple Exclusive
+    description                           : Built natively for iPhone and iPad.
     fontawesome_icon_name                 : mobile
 
-  - title                                 : Video Support
-    description                           : Preview app video on the iPhone device simply by placing your video files in the videos folder.
-    fontawesome_icon_name                 : play-circle
+  - title                                 : Privacy First
+    description                           : No personally identifiable data is collected. Ever.
+    fontawesome_icon_name                 : lock
 
-  - title                                 : Automatic Icon and Metadata
-    description                           : Enter iOS app ID in the _config.yml file to automatically fetch app icon, price and App Store Link.
-    fontawesome_icon_name                 : sync
+  - title                                 : Unlimited Recordings
+    description                           : 90s apps of old allowed a single recording. Yaktraks includes unlimited recordings for free.
+    fontawesome_icon_name                 : file-audio
 
-  - title                                 : Easy to Tweak
-    description                           : Tweak accent color, images, icons and transparency via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : adjust
+  - title                                 : No Subscription Costs
+    description                           : Unlike other apps, Yaktraks requires no monthly subscription
+    fontawesome_icon_name                 : money-bill-wave-alt
   
-  - title                                 : Feature List
-    description                           : Add features (like this one) to your site via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : star
-
-  - title                                 : Smart App Banner
-    description                           : Display a smart app banner on iOS devices.
-    fontawesome_icon_name                 : arrow-alt-circle-down
-
-  - title                                 : Social Links
-    description                           : Easily add social media accounts and contact info in the footer via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : link
-
-  - title                                 : FontAwesome Support
-    description                           : Pick custom Font Awesome icons for the feature list via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : info-circle
+  - title                                 : No Ads
+    description                           : Rest easy knowing Yaktraks is ad-free.
+    fontawesome_icon_name                 : times-circle
 
   - title                                 : # New Feature Title
     description                           : # New Feature Description
@@ -99,7 +87,7 @@ app_description_color                     : "#ffffff"
 feature_title_color                       : "#000000"
 feature_text_color                        : "#666666"
 
-feature_icons_foreground_color            : "#1d63ea"
+feature_icons_foreground_color            : "#0DF1E8"
 feature_icons_background_color            : "#e6e6e6"
 
 social_icons_foreground_color             : "#666666"
