@@ -22,11 +22,11 @@ enable_smart_app_banner                   : true                                
 # Information About Yourself
 your_name                                 : Ryan                                
 your_link                                 :                        
-your_city                                 : USA                                 
+your_city                                 : the USA                                 
 email_address                             :  
 facebook_username                         :                                            
 instagram_username                        :  
-twitter_username                          : thatvirtualboy
+twitter_username                          : yaktraks
 github_username                           : 
 youtube_username                          :
 
@@ -78,7 +78,7 @@ device_color                              : black                               
 
 body_background_color                     : "#000000"
 
-link_color                                : "#1d63ea"
+link_color                                : "#F7F354"
 
 app_title_color                           : "#ffffff"
 app_price_color                           : "#ffffff"
