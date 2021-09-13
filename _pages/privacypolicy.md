@@ -5,12 +5,14 @@ include_in_header: false
 ---
 
 **Last updated**  
-Sept 2 2021
+Sept 13 2021
+
+![](/assets/privacy-handshake-icon.png)
 
 # Privacy Policy
-Yaktraks is developed and distributed as a Commercial app. This Application is provided by Ryan Klumph and is intended for use as is. This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information (which isn't collected) if anyone decided to use my Application. If you choose to use my Application, then you agree to the collection and use of information (which doesn't include personal information) in relation to this policy. The Information that I collect is used for providing and improving the Service. I will not use or share Personal Information with anyone (because I won't have it) except as described in this Privacy Policy.
+Yaktraks and its developer take your privacy seriously. That is why no personally identifiable information is ever collected. Yaktraks does not, and never will, sell any user data. The only data that is collected is basic app usage statistics in order to help make the app better. 
 
+When you use Yaktraks, you record clips of your voice which are stored on your device. These audio clips are never sent outside of your device, and simply cannot be shared outside of the app.
 
-## 1.0 Information We Collect
-
-The information that Yaktraks requests includes basic environmental details like the device type, iOS version, and app version. No Personally Identifiable information is collected. Ever.
+## What data is collected
+The type of data that Yaktraks does collect is collected solely for improving the app. This type of data includes things like device type, iOS version, App veersion, launch count, and feature usage. This data is completely anonymous and never includes personally identifiable information. Yaktraks uses the privacy-conscious service [TelemetryDeck](https://telemetrydeck.com) for the agregation of this data.
