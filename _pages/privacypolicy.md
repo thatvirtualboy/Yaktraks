@@ -7,7 +7,7 @@ include_in_header: false
 **Last updated**  
 Sept 13 2021
 
-![](assets/privacy-handshake-icon.png)
+![](/assets/privacy-handshake-icon.png)
 
 # Privacy Policy
 Yaktraks and its developer take your privacy seriously. That is why no personally identifiable information is ever collected. Yaktraks does not, and never will, sell any user data. The only data that is collected is basic app usage statistics in order to help make the app better. 
