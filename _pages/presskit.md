@@ -30,4 +30,4 @@ Yaktraks is all about simple, honest fun. It’s an iOS app that is built for ki
 • 6-second recordings just like the toys from the 90s (additional recording durations available via IAP)  
 • 4 included voice effects (and another 4 available via IAP)  
 • Multiple App Icons to choose from to customize the homescreen (some included, some available via IAP)  
-• Locked content and future updates & features are available with a one-time small purchase of just $0.99  
+• Premium content and future updates & features are available with a one-time small purchase of just $0.99  
