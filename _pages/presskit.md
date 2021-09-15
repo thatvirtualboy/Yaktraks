@@ -4,7 +4,7 @@ title: Press Kit
 include_in_header: true
 ---
 
-### Press Kit
+## Press Kit
 Click [here](https://www.icloud.com/iclouddrive/0wktB-cpA0aatMKrd-Vbexs4w#Press_Kit_Yaktraks) to download the full press kit with screenshots, icons, promo art, and videos.
 
 ### Introducing Yaktraks
