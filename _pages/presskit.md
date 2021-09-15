@@ -10,7 +10,7 @@ Click [here](https://www.icloud.com/iclouddrive/0wktB-cpA0aatMKrd-Vbexs4w#Press_
 ### Introducing Yaktraks
 So much in the world has changed in recent years, with more and more changing each day. However one thing that’s remained constant is the need for our kids’ entertainment! Just the other day, my kids discovered a new microphone at my desk and they asked if they could play with it. I sat them on my lap and launched QuickTime so they could record and hear their own voices. They had so much fun coming up with silly things to say and hearing it play back, it sparked an idea in me.
 
-[![promo](/assets/promo2.png "promo")](www.google.com)<br><br>
+[![promo](assets/promo2.png "promo")]()<br><br>
 
 Remember those old voice recorder toys from the 90s and 2000s? They were small, brightly colored, and extremely lacking in features by today’s modern toy standards. But the truth of the matter is, kids are great at finding joy in simple things. Be it a cardboard box they can color and turn into a spaceship, or a microphone where they can say whatever silly things come to mind.
 
