@@ -1,5 +1,6 @@
 #page title
 page_title                                : "Yaktraks - 90s Nostalgia"                                          # Automatically populates with app name if not set and if iOS app ID is set. Otherwise enter manually.
+baseurl: "Yaktraks"
 
 # App Info
 ios_app_id                                : 1583086555                                # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
